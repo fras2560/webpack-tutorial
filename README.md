@@ -183,7 +183,7 @@ module.exports = {
 Now running `npm run build` will result in a _dist_ folder being created with an _index.html_ and a _main.js_. This index.html can be opened up in any browser and should display some text. The ES6 classes will be compiled to something supported by IE.
 
 
-###Automatic Code Builds/Refresh
+### Automatic Code Builds/Refresh
 A development server can be used so that when you make a change to the file you do not need to do another build. To setup we need a _webpack-dev-server_
 ```
 npm i webpack-dev-server --save-dev
