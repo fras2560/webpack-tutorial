@@ -9,6 +9,6 @@ export class Rectangle {
   }
 
   perimeter(){
-    return this.height * 3 + this.width * 3;
+    return this.height * 2 + this.width * 2;
   }
 }
